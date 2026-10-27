@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/daniel-FDO/gallery">Explore my gallery</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/daniel-fasan-a0b503331/">LinkedIn</a>
 </p>
 
