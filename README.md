@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+   <a href="https://danielfasan.vercel.app/">Portfolio</a>
   <a href="https://www.linkedin.com/in/daniel-fasan-a0b503331/">LinkedIn</a>
 </p>
 
