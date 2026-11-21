@@ -31,4 +31,4 @@ Right now, I’m learning **React, TypeScript and JavaScript**, while developing
 
 ---
 
-Outside of code: Liverpool FC, music, gaming and cars. Always curious about what I can build next.
+
